@@ -23,3 +23,8 @@ console.log(numero2);
 
 /**icludes detremnina si un rreglo contiene un valor */
  console.log(lenguajes.includes('php','c'));
+
+ /**filter */
+ if(numero>10){
+     
+ }
